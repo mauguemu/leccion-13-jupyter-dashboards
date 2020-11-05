@@ -6,7 +6,7 @@ El repositorio correspondiente a esta lección está disponible en [https://gith
 - Sitio web de Jupyter Dashboards: [Jupyter Dashboards Layout Extension](https://jupyter-dashboards-layout.readthedocs.io/)
 
 ## Notebooks
-- [Jupyter Dashboards](https://github.com/tpb708-programacionsig-2020/leccion-13-jupyter-dashboards/blob/master/jupyter-dashboards.ipynb)
+- [Jupyter Dashboards](https://github.com/tpb708-programacionsig-2020/leccion-13-jupyter-dashboards/blob/main/jupyter-dashboards.ipynb)
 
 ## Creación de un ambiente Conda y clonación del repositorio
 Ejecute estos comandos desde la línea de comandos de Anaconda, en el directorio en el que desea almacenar el repositorio clonado.
