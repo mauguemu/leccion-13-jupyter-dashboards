@@ -24,7 +24,7 @@ conda activate leccion-13
 # GeoPandas, Jupyter, Git
 conda config --env --add channels conda-forge
 conda config --env --set channel_priority strict
-conda install python=3 geopandas matplotlib descartes seaborn folium jupyter jupyter_dashboards git plotly_express
+conda install python=3 geopandas matplotlib descartes plotly_express folium jupyter jupyter_dashboards git
 
 # Clonación del repositorio (debe sustituir la palabra "usuario" por su nombre de usuario en GitHub)
 git clone https://github.com/usuario/leccion-13-jupyter-dashboards.git
